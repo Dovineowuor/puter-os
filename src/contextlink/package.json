@@ -9,7 +9,7 @@
   "author": "Puter Technologies Inc.",
   "license": "AGPL-3.0-only",
   "devDependencies": {
-    "mocha": "^10.2.0"
+    "mocha": "^10.8.2"
   },
   "directories": {
     "test": "test"
